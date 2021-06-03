@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AI...
 - 📫 How to reach me: [Instagram](https://www.instagram.com/istiakshovon2/)
 -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sijey-praveen&show_icons=true&theme=chartreuse-light)
