@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Instagram](https://www.instagram.com/istiakshovon2/)
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sijey-praveen&show_icons=true&theme=chartreuse-light)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiakshovon&show_icons=true&theme=chartreuse-light)
