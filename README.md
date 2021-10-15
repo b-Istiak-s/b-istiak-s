@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiakshovon&show_icons=true&theme=chartreuse-dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Istiakshovon&cache_seconds=1800&theme=tokyonight&layout=compact)
 ![Graph](https://activity-graph.herokuapp.com/graph?username=Istiakshovon&theme=dracula)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Istiakshovon)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Istiakshovon&theme=dracula)
