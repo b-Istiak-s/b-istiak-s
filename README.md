@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Instagram](https://www.instagram.com/istiakshovon2/)
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiakshovon&show_icons=true&theme=chartreuse-dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Istiakshovon&cache_seconds=1800&theme=tokyonight&layout=compact)
-![Graph](https://activity-graph.herokuapp.com/graph?username=Istiakshovon&theme=dracula)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Istiakshovon&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=b-istiak-s&show_icons=true&theme=chartreuse-dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b-istiak-s&cache_seconds=1800&theme=tokyonight&layout=compact)
+![Graph](https://activity-graph.herokuapp.com/graph?username=b-istiak-s&theme=dracula)
+![Trophies](https://github-profile-trophy.vercel.app/?username=b-istiak-s&theme=dracula)
