@@ -1,9 +1,5 @@
 ### Hi there 👋 Am Istiak
 
-I am a Software Developer who works mostly on Mobile Apps and All things Mobile related. 
-
-I enjoy working in teams, pubilc speaking,  techpreneurship , pair programming and collaborating with other developers on innovative solutions. Try to learn something new everyday. 🔥🚀
-
 <!--
 **Istiakshovon/Istiakshovon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
