@@ -5,5 +5,3 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=b-istiak-s&theme=dracula)
 
 
-## Have a question?
-Hit me on social-media : https://www.facebook.com/billyistiak/
